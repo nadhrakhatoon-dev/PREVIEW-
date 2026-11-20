@@ -1,0 +1,6 @@
+{
+  "name": "Daily Tracker",
+  "description": "A clean, lightweight daily task and ₹ expense tracker with offline local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
